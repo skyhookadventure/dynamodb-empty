@@ -1,12 +1,13 @@
 {
   "name": "dynamodb-empty",
-  "description": "FEDs coming round to check you Bitcoin log? Wipe those DynamoDB tables fast.",
+  "description": "Quickly empty a DynamoDB table",
   "license": "MIT",
   "version": "1.0.1",
   "main": "dist/index.js",
   "bin": {
     "dynamodb-empty": "./dist/bin.js"
   },
+  "repository": "https://github.com/skyhookadventure/dynamodb-empty.git",
   "scripts": {
     "build": "tsc --resolveJsonModule",
     "watch": "tsc -w --resolveJsonModule",
