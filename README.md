@@ -5,7 +5,7 @@ typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](htt
 [![version](https://badgen.net/npm/v/dynamodb-empty)](https://www.npmjs.com/package/dynamodb-empty)
 ![dependants](https://badgen.net/npm/dependents/dynamodb-empty) ![license](https://badgen.net/npm/license/dynamodb-empty)
 
-FEDs coming round to check you Bitcoin log? Wipe those DynamoDB tables fast.
+Empty a small Dynamo DB table without deleting it.
 
 ## Why
 
